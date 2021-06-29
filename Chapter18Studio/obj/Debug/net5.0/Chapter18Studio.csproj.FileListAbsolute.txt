@@ -1,0 +1,16 @@
+D:\Development\Launchcode\C#\Chapter18Classes\Chapter18Studio\Chapter18Studio\bin\Debug\net5.0\Chapter18Studio.exe
+D:\Development\Launchcode\C#\Chapter18Classes\Chapter18Studio\Chapter18Studio\bin\Debug\net5.0\Chapter18Studio.deps.json
+D:\Development\Launchcode\C#\Chapter18Classes\Chapter18Studio\Chapter18Studio\bin\Debug\net5.0\Chapter18Studio.runtimeconfig.json
+D:\Development\Launchcode\C#\Chapter18Classes\Chapter18Studio\Chapter18Studio\bin\Debug\net5.0\Chapter18Studio.runtimeconfig.dev.json
+D:\Development\Launchcode\C#\Chapter18Classes\Chapter18Studio\Chapter18Studio\bin\Debug\net5.0\Chapter18Studio.dll
+D:\Development\Launchcode\C#\Chapter18Classes\Chapter18Studio\Chapter18Studio\bin\Debug\net5.0\ref\Chapter18Studio.dll
+D:\Development\Launchcode\C#\Chapter18Classes\Chapter18Studio\Chapter18Studio\bin\Debug\net5.0\Chapter18Studio.pdb
+D:\Development\Launchcode\C#\Chapter18Classes\Chapter18Studio\Chapter18Studio\obj\Debug\net5.0\Chapter18Studio.csproj.AssemblyReference.cache
+D:\Development\Launchcode\C#\Chapter18Classes\Chapter18Studio\Chapter18Studio\obj\Debug\net5.0\Chapter18Studio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Launchcode\C#\Chapter18Classes\Chapter18Studio\Chapter18Studio\obj\Debug\net5.0\Chapter18Studio.AssemblyInfoInputs.cache
+D:\Development\Launchcode\C#\Chapter18Classes\Chapter18Studio\Chapter18Studio\obj\Debug\net5.0\Chapter18Studio.AssemblyInfo.cs
+D:\Development\Launchcode\C#\Chapter18Classes\Chapter18Studio\Chapter18Studio\obj\Debug\net5.0\Chapter18Studio.csproj.CoreCompileInputs.cache
+D:\Development\Launchcode\C#\Chapter18Classes\Chapter18Studio\Chapter18Studio\obj\Debug\net5.0\Chapter18Studio.dll
+D:\Development\Launchcode\C#\Chapter18Classes\Chapter18Studio\Chapter18Studio\obj\Debug\net5.0\ref\Chapter18Studio.dll
+D:\Development\Launchcode\C#\Chapter18Classes\Chapter18Studio\Chapter18Studio\obj\Debug\net5.0\Chapter18Studio.pdb
+D:\Development\Launchcode\C#\Chapter18Classes\Chapter18Studio\Chapter18Studio\obj\Debug\net5.0\Chapter18Studio.genruntimeconfig.cache
