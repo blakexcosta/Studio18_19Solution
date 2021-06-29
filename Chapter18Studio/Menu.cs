@@ -101,8 +101,18 @@ namespace Chapter18Studio
                 if (itemCategories.Contains(category))
                 {
                     // Adding a new item to the MenuItems collection
-                    MenuItem newItem = new MenuItem(price, description, category);
-                    MenuItems.Add(newItem);
+                    //check for duplicate
+                    bool isDuped = DoesItemExist(description);
+                    if (isDuped)
+                    {
+                        throw new Exception("Item already exists!");
+                    }
+                    else
+                    {
+                        MenuItem newItem = new MenuItem(price, description, category);
+                        MenuItems.Add(newItem);
+                    }
+                    
                 }
                 else
                 {
@@ -146,7 +156,17 @@ namespace Chapter18Studio
         }
 
         // determine whether two menu items are equal. Could be used to check for duplicates, will be helper method for AddMenuItem)
-
+        private bool DoesItemExist(string description)
+        {
+            foreach(MenuItem item in MenuItems)
+            {
+                if (item.Description.Equals(description))
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
 
 
 
